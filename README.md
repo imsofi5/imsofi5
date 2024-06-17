@@ -1,5 +1,5 @@
 - 👋 Hi, I am Imtiyaz Sofi
-- 👀 I’m interested in Devops/Scripting/Cloud Native technologies. I have 9 + years experience in IT and services industry and specialized in virtualization,Scripting and Administration.
+- 👀 I’m interested in Devops/Scripting/Cloud Native technologies. I have 9 + years experience in IT and services industry and specialized in virtualization,Scripting and Administration. I am a certified Kuberenetes Administrator and VMWARE certified Professional DCV.
 - 🌱 I’m currently learning Openshift.
 - 💞️ I’m looking to collaborate on projects that span technologies like Docker, Kubernetes, Jenkins, Terraform and Openshift.
 - 📫 How to reach me www.linkedin.com/in/imtiyaz-sofi-20594769
