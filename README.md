@@ -5,12 +5,12 @@
 - 📫 How to reach me www.linkedin.com/in/imtiyaz-sofi-20594769
 - 😄 Pronouns: HE/HIM
 - Skills:
-  Vmware Vsphere Virtualization
-  powershell/python scripting
-  Linux
-  Databases mySQL.
-  Docker, Kubernetes, Jenkins, Terrafor IAC, AWS
-  Openshift
+  - Vmware Vsphere Virtualization
+  - powershell/python scripting
+  - Linux
+  - Databases mySQL.
+  - Docker, Kubernetes, Jenkins, Terrafor IAC, AWS
+  - Openshift
   
 
 <!---
